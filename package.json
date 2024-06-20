@@ -1,6 +1,6 @@
 {
   "name": "@achhayapathak/cli-quiz-app",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "This is a command line quiz app made for fun.",
   "main": "index.js",
   "type": "module",
